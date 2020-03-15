@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Sasha",
+    "role": "student"
+  },
+  {
+    "id": 2,
+    "name": "Jujusss",
+    "role": "student"
+  },
+  {
+    "id": 3,
+    "name": "Ellen",
+    "role": "student"
+  },
+  {
+    "id": 4,
+    "name": "Alex",
+    "role": "student"
+  },
+  {
+    "id": 5,
+    "name": "Frank",
+    "role": "student"
+  },
+  {
+    "id": 6,
+    "name": "Satinder",
+    "role": "student"
+  },
+  {
+    "id": 7,
+    "name": "Marcia",
+    "role": "student"
+  },
+  {
+    "id": 8,
+    "name": "Chris",
+    "role": "student"
+  },
+  {
+    "id": 9,
+    "name": "Bekruz",
+    "role": "student"
+  },
+  {
+    "id": 10,
+    "name": "Keith",
+    "role": "student"
+  },
+  {
+    "id": 11,
+    "name": "Katherine",
+    "role": "student"
+  },
+  {
+    "id": 12,
+    "name": "Grace",
+    "role": "student"
+  },
+  {
+    "id": 13,
+    "name": "Charlie",
+    "role": "TA"
+  },
+  {
+    "id": 14,
+    "name": "Frank",
+    "role": "TA"
+  },
+  {
+    "id": 15,
+    "name": "Ben",
+    "role": "instructor"
+  }
+]
